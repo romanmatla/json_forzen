@@ -17,7 +17,7 @@
       "last_name": "tekst1",
       "email": "k.nowak@gmail.com",
       "phoneNumber": "+00 000 000 000",
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/09/rozmr.png",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg",
       "birthday": "1/1/1955",
       "phone": "1/1/1955",
       "address": "1/1/1955"
@@ -28,7 +28,7 @@
       "last_name": "tekst2",
       "email": "m.kowalska@gmail.com",
       "phoneNumber": "+00 000 000 000",
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/09/kleps.png",
+      "picture": "https://randomuser.me/api/portraits/women/84.jpg",
       "birthday": "1/1/1955",
       "phone": "1/1/1955",
       "address": "1/1/1955"
@@ -39,7 +39,7 @@
       "last_name": "tekst3",
       "email": "p.obdarowicz@gmail.com",
       "phoneNumber": "+00 000 000 000",
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/09/info.png",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
       "birthday": "1/1/1955",
       "phone": "1/1/1955",
       "address": "1/1/1955"
@@ -50,35 +50,35 @@
 	  "id": 1,
       "category": "dwa",
       "categorys_id": 1,
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/08/sniezynka.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
       "content": "Mrożenie to jeden z najpopularniejszych sposobów na przechowywanie żywności. Pozwala zachować jej wartości odżywcze, smak i aromat przez długi czas. Aby mrożenie było skuteczne, należy przestrzegać kilku zasad. Po pierwsze, żywność do mrożenia powinna być świeża i wysokiej jakości. Produkty, które są już popsute lub nieświeże, po rozmrożeniu będą miały nieprzyjemny smak i zapach. Po drugie, żywność należy dokładnie umyć i osączyć. Woda ułatwia namnażanie się bakterii, dlatego ważne jest, aby pozbyć się jej z powierzchni produktów. Po trzecie, żywność należy podzielić na mniejsze porcje. Dzięki temu łatwiej będzie ją rozmrozić i wykorzystać. Po czwarte, żywność należy mrozić w szczelnie zamkniętych opakowaniach. Opakowanie powinno zapobiegać przedostawaniu się powietrza i wilgoci, które mogą pogorszyć jakość produktów."
     },
     {
 	  "id": 2,
       "category": "cztery",
       "categorys_id": 2,
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/08/sniezynka.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
       "content": "Do rozmrażania żywności można użyć kilku metod: Rozmrażanie w lodówce. Jest to najbezpieczniejsza metoda. Żywność należy wyjąć z zamrażalnika i umieścić w lodówce na kilka godzin lub całą noc. Rozmrażanie w mikrofalówce. Jest to najszybsza metoda, ale może spowodować, że produkty będą suche i gumowate. Żywność należy rozmrażać w mikrofalówce na niskich obrotach, co kilka minut obracając ją. Rozmrażanie w zimnej wodzie. Jest to dobra metoda do rozmrażania mięsa i ryb. Żywność należy umieścić w misce z zimną wodą i odstawić na kilka godzin lub całą noc."
     },
     {
 	  "id": 3,
       "category": "jeden",
       "categorys_id": 3,
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/08/sniezynka.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
       "content": "Czas przechowywania mrożonej żywności zależy od rodzaju produktu. Oto kilka wskazówek: Warzywa i owoce: 1-12 miesięcy, Mięso: 3-12 miesięcy, Ryby: 3-6 miesięcy, Dania gotowe: 2-6 miesięcy."
     },
     {
 	  "id": 4,
       "category": "jeden",
       "categorys_id": 1,
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/08/sniezynka.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
       "content": "Zamrażanie owoców: Zamrożenie owoców należy przeprowadzić jak najszybciej po ich zerwaniu lub zakupie. Owoce można zamrażać w woreczkach foliowych, pojemnikach plastikowych lub słoikach. Na każdym opakowaniu z zamrożonymi owocami należy napisać datę zamrożenia."
     },
     {
 	  "id": 5,
       "category": "dwa",
       "categorys_id": 4,
-      "picture": "https://moje-kosmetyki.eu/wp-content/uploads/2023/08/sniezynka.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
       "content": "Ogólne porady o mrożeniu żywności: Nie zamrażaj żywności, która jest już popsuta lub nieświeża. Dokładnie umyj i osusz żywność przed zamrożeniem. Podzielaj żywność na mniejsze porcje. Mroź żywność w szczelnie zamkniętych opakowaniach.  Mroź żywność w temperaturze od -18 do -23°C. Rozmrażaj żywność w lodówce, mikrofalówce lub zimnej wodzie. Pamiętaj o czasie przechowywania mrożonej żywności."
     }
   ]
