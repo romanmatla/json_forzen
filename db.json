@@ -58,28 +58,28 @@
       "category": "cztery",
       "categorys_id": 2,
       "picture": "https://randomuser.me/api/portraits/men/57.jpg",
-      "content": "Do rozmrażania żywności można użyć kilku metod: Rozmrażanie w lodówce. Jest to najbezpieczniejsza metoda."
+      "content": "Do rozmrażania żywności można użyć kilku metod: Rozmrażanie w lodówce. Jest to najbezpieczniejsza metoda, ale można również rozmrażać w wodzie lub w mikrofalówce"
     },
     {
 	  "id": 3,
       "category": "jeden",
       "categorys_id": 3,
       "picture": "https://randomuser.me/api/portraits/men/57.jpg",
-      "content": "Czas przechowywania mrożonej żywności zależy od rodzaju produktu. Oto kilka wskazówek: "
+      "content": "Czas przechowywania mrożonej żywności zależy od rodzaju produktu. Oto kilka wskazówek: Mrożone warzywa można przechowywać przez około 12 miesięcy. Mrożone owoce można przechowywać przez około 12 miesięcy. Mrożone mięso można przechowywać przez około 12 miesięcy."
     },
     {
 	  "id": 4,
       "category": "jeden",
       "categorys_id": 1,
       "picture": "https://randomuser.me/api/portraits/men/57.jpg",
-      "content": "Zamrażanie owoców: Zamrożenie owoców należy przeprowadzić jak najszybciej po ich zerwaniu lub zakupie. "
+      "content": "Zamrażanie owoców: Mrożenie owoców to świetny sposób na zachowanie ich smaku i wartości odżywczych. Dzięki temu możemy cieszyć się owocami sezonowymi przez cały rok. Zamrożenie owoców należy przeprowadzić jak najszybciej po ich zerwaniu lub zakupie. Przed zamrożeniem owoce należy dokładnie umyć i osuszyć. Owoce z pestkami należy pozbawić pestek. "
     },
     {
 	  "id": 5,
       "category": "dwa",
       "categorys_id": 4,
       "picture": "https://randomuser.me/api/portraits/men/57.jpg",
-      "content": "Ogólne porady o mrożeniu żywności: Nie zamrażaj żywności, która jest już popsuta lub nieświeża..."
+      "content": "Ogólne porady o mrożeniu żywności: Nie zamrażaj żywności, która jest już popsuta lub nieświeża, Nigdy nie rozmrażaj mięsa w temperaturze pokojowej, Mrożone produkty należy przechowywać w zamrażarce w temperaturze -18°C, Nie zamrażaj produktów ponownie po ich rozmrożeniu."
     }
   ]
 }
